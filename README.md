@@ -13,6 +13,6 @@ Neat: ∗ ⊛ ※ ◉ ◯  ⍟
 
 Useful: ℃ ℉ № ℡ ℻ ⌘ ⎇★ ☆ ✖ 
 
-Maybe Something: ⊗ ⎗ ⎘ ⎙
+Maybe Something: ⊗ 
 
 Misc Symbols: ♻ 
