@@ -1,14 +1,18 @@
 Helpful Unicode Characters to Abuse
 ===================================
 
-Hamburgers: ≣≡≔⁝
+Hamburgers: ≣≡≔⁝⋮
 
 Triangles: ⊲⊳ 
 
-Angles: ≺≻❬❭ ❮❯
+Angles: ≺≻
 
 Arrows: ↺ ↻ ⇦ ⇨ 
 
-Neat: ∗ ⊛ ※ ◉ ◯
+Neat: ∗ ⊛ ※ ◉ ◯  ⍟  
 
-Useful: ℃ ℉ № ℡ ℻ ⌘ ★ ☆ ✖ 
+Useful: ℃ ℉ № ℡ ℻ ⌘ ⎇★ ☆ ✖ 
+
+Maybe Something: ⊗ ⎗ ⎘ ⎙
+
+Misc Symbols: ♻ 
