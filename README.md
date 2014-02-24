@@ -1,9 +1,14 @@
 Helpful Unicode Characters to Abuse
 ===================================
 
-Hamburger Navs: ≣≡≔
+Hamburgers: ≣≡≔⁝
 
-Triangle Pointers: ⊲⊳
+Triangles: ⊲⊳ 
 
-Angle Pointers: ≺≻
+Angles: ≺≻❬❭ ❮❯
 
+Arrows: ↺ ↻ ⇦ ⇨ 
+
+Neat: ∗ ⊛ ※ ◉ ◯
+
+Useful: ℃ ℉ № ℡ ℻ ⌘ ★ ☆ ✖ 
