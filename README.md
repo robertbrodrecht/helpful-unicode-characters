@@ -11,10 +11,12 @@ Arrows: ↺ ↻ ⇦ ⇨
 
 Neat: ∗ ⊛ ※ ◉ ◯  ⍟  
 
-Useful: ℃ ℉ № ℡ ℻ ⌘ ⎇★ ☆ ✖ 
+Useful: ℃ ℉ № ℡ ℻ ⌘ ⎇★ ☆ ✖   ✂✆   ✎  
 
-Maybe Something: ⊗ 
+Maybe Something: ⊗ ⨁  ⨂  ⨯  
 
-Misc Symbols: ♻ ⚙  
+Misc Symbols: ♻ ⚙  ⛨ ❤
 
-Weather: ☁ ☀  ☂  ☃    
+
+Weather: ☁ ☀  ☂  ☃    ⛆
+⛇  ⛈
