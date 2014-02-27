@@ -3,15 +3,13 @@ Helpful Unicode Characters to Abuse
 
 Hamburgers: ≣≡≔⁝⋮
 
-Triangles: ⊲⊳ ⦉ ⦊  ◀ ▶  ◁  ▷  
+Triangles: ⊲⊳ ◀ ▶  ◁  ▷  
 
-Angles: ≺≻⧼⧽
+Angles: ≺≻
 
-Shapes: ⬟  ⬠   ⬡   ⬢  ⬣  ⬤  ▰  ▱  
+Arrows: ↺ ↻ ⇦ ⇨ ☚  ☛ ☜  ☞    ←  →  
 
-Arrows: ↺ ↻ ⇦ ⇨ ⬅  ⤶  ⤷  ⤌  ⤍  ⤎  ⤏    ☚  ☛  ☜  ☞    ←  →  
-
-Neat: ∗ ⊛ ※ ◉ ◯  ⍟  ⨷   ⧨  ⧩  ⦾  ⦿    ❂  ✼  ✺  ✸  ✱  ✲  ✪  
+Neat: ∗ ⊛ ※ ◉ ◯  ⍟  ❂  ✼  ✺  ✸  ✱  ✲  ✪  
 
 Useful: ℃ ℉ № ℡ ℻ ⌘ ⎇★ ☆ ✖   ✂✆   ✎  ✚  ⚠  ☎  ☏  
 
@@ -19,6 +17,6 @@ Maybe Something: ⊗◌ ◍  ◎  ●  ◯  ◉
 
 Misc Symbols: ♻ ⚙  ❤  ⚙  ⚜  ⚛  ⚚  ⚕  ⚑  ⚐  ☺  ☹  
 
-Quotes: ❛ ❜  ❝  ❞  ❟  ❠ 
+Quotes: ❛ ❜  ❝  ❞  
 
 Weather: ☁ ☀  ☂  ☃    
