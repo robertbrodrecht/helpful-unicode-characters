@@ -15,4 +15,6 @@ Useful: ℃ ℉ № ℡ ℻ ⌘ ⎇★ ☆ ✖
 
 Maybe Something: ⊗ 
 
-Misc Symbols: ♻ 
+Misc Symbols: ♻ ⚙  
+
+Weather: ☁ ☀  ☂  ☃    
