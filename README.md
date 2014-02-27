@@ -21,8 +21,6 @@ Triangles:
 Angles: 
 
 	≺ ≻
-	˂ ˃
-	˱ ˲
 	ᐸ ᐳ
 	≪ ≫
 	⍃ ⍄
