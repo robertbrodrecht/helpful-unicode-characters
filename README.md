@@ -2,6 +2,7 @@ Helpful Unicode Characters to Abuse
 ===================================
 
 Hamburgers: 
+
 	≣
 	≡
 	≔
@@ -11,12 +12,14 @@ Hamburgers:
 	⁞
 	
 Triangles: 
+
 	⊲ ⊳
 	◀ ▶
 	◁ ▷
 	ᐊ ᐅ
 
 Angles: 
+
 	≺ ≻
 	˂ ˃
 	˱ ˲
@@ -27,6 +30,7 @@ Angles:
 	《 》
 
 Arrows:
+
 	↺ ↻ 
 	⇦ ⇨
 	☚ ☛
